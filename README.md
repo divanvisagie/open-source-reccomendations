@@ -1,8 +1,10 @@
-# open-source-reccomendations
-Reccomendations for Open Source software 
+# open-source-recomendations
+Recommendations for Open Source software 
 
 ## Android
 
 File Manager - [Amaze](https://github.com/TeamAmaze/AmazeFileManager)
 
 App Store - [F-Droid](https://f-droid.org/en/)
+
+Password Manager - [KeePass DX](https://github.com/Kunzisoft/KeePassDX)
