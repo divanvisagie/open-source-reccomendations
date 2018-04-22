@@ -11,4 +11,4 @@ Password Manager - [KeePass DX](https://github.com/Kunzisoft/KeePassDX)
 
 ## Linux
 
-Snapshots [Timeshift](https://github.com/teejee2008/timeshift)
+Snapshots - [Timeshift](https://github.com/teejee2008/timeshift)
