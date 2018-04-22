@@ -1,4 +1,4 @@
-# open-source-recomendations
+# Open Source Recomendations
 Recommendations for Open Source software 
 
 ## Android
