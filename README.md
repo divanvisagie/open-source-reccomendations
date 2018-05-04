@@ -9,6 +9,12 @@ App Store - [F-Droid](https://f-droid.org/en/)
 
 Password Manager - [KeePass DX](https://github.com/Kunzisoft/KeePassDX)
 
+
+### Interesting reads on the topic
+
+https://piware.de/post/2018-05-01-android-degoogle/
+
 ## Linux
 
 Snapshots - [Timeshift](https://github.com/teejee2008/timeshift)
+
